@@ -1,0 +1,6 @@
+[submodule "deps/fcitx5-skk"]
+	path = deps/fcitx5-skk
+	url = https://github.com/fcitx/fcitx5-skk
+[submodule "deps/libskk"]
+	path = deps/libskk
+	url = https://github.com/ueno/libskk
